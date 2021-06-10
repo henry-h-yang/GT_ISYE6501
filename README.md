@@ -1,1 +1,1 @@
-# GT_ISYE6501
+# GT_Intro to Analytics Modeling
